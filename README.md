@@ -7,7 +7,7 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaneStask&layout=compact&theme=dark&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaneStask&layout=compact&theme=dark&langs_count=12)
 ](https://github.com/blanestask/github-readme-stats)
 
 
