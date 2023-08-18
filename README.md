@@ -1,8 +1,5 @@
 ### Hi there, I'm Blane
 
-##### Penn State graduate with experience using C, C++, Java, Python, Ubuntu Linux, and during my internship at Tech for Good Inc. I led the Kubernetes Engine Team on the Flant project, a ML-powered cloud optimization engine. [<img align="center" alt="TFG website" width="21px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-
-
 ### Connect with me on LinkedIn [<img align="center" alt="Blane Staskiewicz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ---
 
